@@ -5,13 +5,13 @@
 	"repository": "https://github.com/Alien-Alfa/WhatsAppBot-MD",
 	"website": "https://small-sharp-tool.com/",
 	"logo": "https://avatars.githubusercontent.com/u/64305844?v=4",
-	"keywords": ["multi-device","ＡＬＩＥＮ ＡＬＦＡ"],
+	"keywords": ["multi-device","ＮＩＪＵ ＳＥＲ"],
 	
 	"env": { 
     "OWNER": {
             "description": "Pleas enter Number Of the Owner.",
             "required": false,
-            "value": "447405935255"
+            "value": "919947545566"
         }, 
 	"S_PACK": {
             "description": "Sticker Pack Name (leave it if you Wish to use the default)",
@@ -21,12 +21,12 @@
 	"WORKTYPE": {
             "description": "change the Work Type (public or private)",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
 	"S_AUTHOR": {
             "description": "Sticker author name. (leave it if you Wish to use the default)",
             "required": false,
-            "value": "Alfa"
+            "value": "NIJUSER"
         }, 
     "SUDO": {
             "description": "Add superuser to this bot",
@@ -64,12 +64,12 @@
     "WATERMARK": {
             "description": "watermark for the bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "ＮＩＪＵ ＳＥＲ"
         },
     "BOTNAME": {
             "description": "Name of The BOT (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "ＮＩＪＵ ＳＥＲ"
         },
     "ICON": {
             "description": "Icon to appear in menu (leave it if you Wish to use the default)",
@@ -79,7 +79,7 @@
     "MAIL": {
             "description": "Premium user number (leave it if you Wish to use the default)",
             "required": false,
-            "value": "AlienAlfa.YT@gmail.com"
+            "value": "asimnishad5@gmail.com"
         },
     "YOUTUBE": {
             "description": "Youtube Channel Link (leave it if you dont have one)",
@@ -89,22 +89,22 @@
     "GITHUB": {
             "description": "Your Github Account URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/"
+            "value": "https://github.com/NJUSER/"
         },
     "INSTAGRAM": {
             "description": "Your Instagram Id URL (leave it if you dont have one)",
             "required": false,
-            "value": "https://www.instagram.com/alienalfa/"
+            "value": "https://instagram.com/niju_ser999?igshid=YmMyMTA2M2Y="
         },
     "NAME": {
             "description": "Owner Name (leave it if you Wish to use the default)",
             "required": false,
-            "value": "𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼"
+            "value": "𝙉𝙄𝙅𝙐 𝙎𝙀𝙍"
         },
     "FOOTER": {
             "description": "Footer Text For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "ＡＬＩＥＮ ＡＬＦＡ"
+            "value": "ＮＩＪＵ ＳＥＲ"
         },
     "IMAGE": {
             "description": "Main Image For The Bot (leave it if you Wish to use the default)",
@@ -114,7 +114,7 @@
     "IMAGE2": {
             "description": "Image For The Bot (leave it if you Wish to use the default)",
             "required": false,
-            "value": "https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true"
+            "value": "NIJU SER"
         },
     "BUTTONURL_LINK1": {
             "description": "URL Button Id/Link (leave it if you Wish to use the default)",
@@ -129,7 +129,7 @@
     "BUTTONURL_OPTION1": {
             "description": "URL Button Name (leave it if you Wish to use the default:Instagram)",
             "required": false,
-            "value": "ɪɴꜱᴛᴀɢʀᴀᴍ"
+            "value": "https://instagram.com/niju_ser999?igshid=YmMyMTA2M2Y="
         },
     "BUTTONURL_OPTION2": {
             "description": "Second URL Button Name (leave it if you Wish to use the default:YouTube)",
@@ -160,7 +160,7 @@
     "ZENS_API": {
             "description": "Get an API key From https://zenzapi.xyz To Use The API Functions.",
             "required": false,
-            "value": "Alfa"
+            "value": "Niju"
         }
 	},
 	
